@@ -7,7 +7,7 @@ class Dog
       @this_dogs_name
   end
 
-  
+
   def breed=(dogs_breed)
     @this_dogs_breed = dogs_breed
   end
@@ -20,4 +20,3 @@ puts name
   #  @breed = breed
   #end
 end
-
