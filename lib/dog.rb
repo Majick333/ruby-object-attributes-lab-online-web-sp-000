@@ -16,7 +16,7 @@ class Dog
       @breed
     end
 
-puts name
+#puts name
   #def initialize(breed)
   #  @breed = breed
   #end
